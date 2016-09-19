@@ -72,7 +72,7 @@ img {
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	background: repeat-x center top;
+	background: url(../images/bg-header.png) repeat-x center top;
 	height: 50px;
 	padding: 16px 0 0;
 	text-align: right;
@@ -144,7 +144,7 @@ img {
 }
 #contents .click-here {
 	float: right;
-	background: no-repeat center top;
+	background: url(../images/spacecraft.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 301px;
@@ -238,7 +238,7 @@ img {
 	opacity:0.8;
 }
 #sidebar .click-here {
-	background:  no-repeat center top;
+	background: url(../images/spacecraft-dark.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 221px;

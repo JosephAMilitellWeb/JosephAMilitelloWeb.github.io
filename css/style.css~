@@ -159,9 +159,9 @@ img {
 }
 /** adbox **/
 #adbox {
-	background: #020a13 url(../images/bg-adbox.jpg) no-repeat center top;
+	background: #020a13 url(../images/JosephMilitello.jpg) no-repeat center top;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	min-height: 433px;
+	min-height: 320px;
 	margin: -56px 0 22px;
 /** Needed for IE7 **/
 *margin: 0;
@@ -217,7 +217,8 @@ img {
 }
 /** sidebar **/
 #sidebar {
-	float: right;
+margin-right: 10px;
+	/**float: right;**/
 	width: 220px;
 	margin: 0 10px 0 80px;
 }
